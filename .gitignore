@@ -31,8 +31,11 @@ build-output.txt
 *.b64.txt
 img_part*.txt
 
-# 임시 HTML
-*.html
+# 임시 파일
+image-email.html
+small-email.html
+generate_icon.py
+capture_screenshots.py
 
 # OS
 Thumbs.db
