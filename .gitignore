@@ -1,0 +1,40 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# App build outputs
+app/build/
+
+# Keystore (보안)
+*.jks
+*.keystore
+keystore/*.jks
+
+# Release outputs
+app/release/
+*.apk
+*.aab
+
+# Temp / build logs
+build-log.txt
+build-output.txt
+
+# Base64 임시 파일
+*.b64
+*.b64.txt
+img_part*.txt
+
+# 임시 HTML
+*.html
+
+# OS
+Thumbs.db
+*.swp
+*~

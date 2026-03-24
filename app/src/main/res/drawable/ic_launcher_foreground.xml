@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DanFish 앱 아이콘 전경: 물고기 + 낚싯대 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 물고기 몸체 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,78L55.52,74L57.54,70.8C58.68,69.07 60.22,67.63 62.04,66.6L66,64.5C69.4,62.5 73.5,60 76,57C76,57 77.36,55.38 78,55C78.64,54.62 80,55 80,55L82,55C82,55 80,52 77,50C74,48 70,47 70,47L66,35L62,47L58,35L54,47L50,35L46,47L42,35L38,47C38,47 34,48 31,50C28,52 26,55 26,55L28,55C28,55 29.36,54.62 30,55C30.64,55.38 32,57 32,57C34.5,60 38.6,62.5 42,64.5L45.96,66.6C47.78,67.63 49.32,69.07 50.46,70.8L52.48,74L54,78Z" />
+    <!-- 눈 -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M46,52A2.5,2.5 0,1 1,46 51.99Z" />
+    <!-- 물결 장식 -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M30,80Q37,76 44,80Q51,84 58,80Q65,76 72,80Q79,84 86,80" />
+</vector>
